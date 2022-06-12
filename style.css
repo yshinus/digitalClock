@@ -1,0 +1,35 @@
+h1{
+    font-size: 60px;
+    text-align: center;
+}
+
+h2{
+    font-size: 50px;
+}
+
+#main{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+}
+
+.things{
+    display: inline-block;
+    text-align: center;
+    width: 400px;
+    height: 300px;
+    border: 5px;
+    background-color: beige;
+    border-style: solid;
+    border-radius: 20px;
+}
+
+.contents{
+    font-size: 40px;
+}
+
+.button{
+    width: 80px;
+    height: 40px;
+    font-size: 20px;
+}
